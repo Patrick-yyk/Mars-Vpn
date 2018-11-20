@@ -1,2 +1,0 @@
-# Mars-Vpn
-Mars Vpn
