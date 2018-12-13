@@ -5,8 +5,7 @@ Mars VPN
 ------
 
 最新版下载地址：
-- [官网下载](http://www.baidu.com) 
-- [谷歌市场](http://www.baidu.com) 
+- [Android下载](http://www.baidu.com) 
 - [IOS下载](https://itunes.apple.com/app/id414478124)
 
 ## Mars能用来做什么：
